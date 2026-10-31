@@ -1,4 +1,4 @@
 Name: Eerik Metsa
 Location: Tallinn, Harju maakond, Estonia
 Emails: zelvics@gmail.com, kelvprod1@gmail.com -> found in whois data
-Links: https://kelv-prod.github.io, https://open.spotify.com/artist/49UQuubtzILwHe4eYCezTt
+Links: https://kelv-prod.github.io, https://open.spotify.com/artist/49UQuubtzILwHe4eYCezTt -> kelvprod1@gmail.com
